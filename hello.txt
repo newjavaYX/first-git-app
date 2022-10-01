@@ -21,3 +21,5 @@ hello world mersert test
 hello world hot-fix test
 12313213213213213132132
 by sshyx
+lix sat
+>>>>>>> 2ccea62816377449b00e1737803613cf6c8fbc5e
